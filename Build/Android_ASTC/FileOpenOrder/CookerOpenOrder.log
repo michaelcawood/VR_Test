@@ -1,0 +1,1379 @@
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 0
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uexp" 1
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.ubulk" 2
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Basic_Wall.uasset" 3
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Basic_Wall.uexp" 4
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Pillar_50x500.uasset" 5
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Pillar_50x500.uexp" 6
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x300.uasset" 7
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x300.uexp" 8
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x400.uasset" 9
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x400.uexp" 10
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_500x500.uasset" 11
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_500x500.uexp" 12
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 13
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Door_400x400.uexp" 14
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 15
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Window_400x400.uexp" 16
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse01.uasset" 17
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse01.uexp" 18
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse01.ubulk" 19
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse02.uasset" 20
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse02.uexp" 21
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse02.ubulk" 22
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion01.uasset" 23
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion01.uexp" 24
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion01.ubulk" 25
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion02.uasset" 26
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion02.uexp" 27
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion02.ubulk" 28
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire01.uasset" 29
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire01.uexp" 30
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire01.ubulk" 31
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire_Sparks01.uasset" 32
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire_Sparks01.uexp" 33
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire_Sparks01.ubulk" 34
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light01.uasset" 35
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light01.uexp" 36
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light01.ubulk" 37
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light01_Cue.uasset" 38
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light01_Cue.uexp" 39
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light02.uasset" 40
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light02.uexp" 41
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light02.ubulk" 42
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light02_Cue.uasset" 43
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Light02_Cue.uexp" 44
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Smoke01.uasset" 45
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Smoke01.uexp" 46
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Smoke01.ubulk" 47
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Birds01.uasset" 48
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Birds01.uexp" 49
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Birds01.ubulk" 50
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Music01.uasset" 51
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Music01.uexp" 52
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Music01.ubulk" 53
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind05.uasset" 54
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind05.uexp" 55
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind05.ubulk" 56
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind06.uasset" 57
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind06.uexp" 58
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Wind06.ubulk" 59
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Steam01.uasset" 60
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Steam01.uexp" 61
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Steam01.ubulk" 62
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 63
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/m_flare_01.uexp" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uexp" 66
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 67
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_radial_ramp.uexp" 68
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 69
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_SubUV.uexp" 70
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_SubUV.ubulk" 71
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 72
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_Tiled_D.uexp" 73
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Smoke_Tiled_D.ubulk" 74
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 75
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_smoke_subUV.uexp" 76
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Burst_M.uasset" 77
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Burst_M.uexp" 78
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Burst_M.ubulk" 79
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Burst.uasset" 80
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Burst.uexp" 81
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 82
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Explosion_SubUV.uexp" 83
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Explosion_SubUV.ubulk" 84
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 85
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_explosion_subUV.uexp" 86
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Explosion.uasset" 87
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Explosion.uexp" 88
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion_Cue.uasset" 89
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Explosion_Cue.uexp" 90
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 91
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uexp" 92
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 93
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uexp" 94
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.ubulk" 95
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 96
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uexp" 97
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_D.uasset" 98
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_D.uexp" 99
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_D.ubulk" 100
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_N.uasset" 101
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_N.uexp" 102
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Bush_N.ubulk" 103
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Bush.uasset" 104
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Bush.uexp" 105
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Bush.uasset" 106
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Bush.uexp" 107
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_M.uasset" 108
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_M.uexp" 109
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_M.ubulk" 110
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_N.uasset" 111
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_N.uexp" 112
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Chair_N.ubulk" 113
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Chair.uasset" 114
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Chair.uexp" 115
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Couch.uasset" 116
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Couch.uexp" 117
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_M.uasset" 118
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_M.uexp" 119
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_M.ubulk" 120
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_N.uasset" 121
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_N.uexp" 122
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Door_N.ubulk" 123
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Door.uasset" 124
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Door.uexp" 125
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Glass.uasset" 126
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Glass.uexp" 127
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Door.uasset" 128
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Door.uexp" 129
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 130
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_MaterialSphere.uexp" 131
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 132
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uexp" 133
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 134
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_MatPreviewMesh_02.uexp" 135
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 136
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_D.uexp" 137
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_D.ubulk" 138
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 139
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Detail_Rocky_N.uexp" 140
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Detail_Rocky_N.ubulk" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 142
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 143
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_M.uasset" 144
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_M.uexp" 145
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_M.ubulk" 146
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_N.uasset" 147
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_N.uexp" 148
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_RockMesh_N.ubulk" 149
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Rock.uasset" 150
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Rock.uexp" 151
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Rock.uasset" 152
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Rock.uexp" 153
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_M.uasset" 154
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_M.uexp" 155
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_M.ubulk" 156
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_N.uasset" 157
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_N.uexp" 158
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Shelf_N.ubulk" 159
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Shelf.uasset" 160
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Shelf.uexp" 161
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Shelf.uasset" 162
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Shelf.uexp" 163
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Basic_Floor.uasset" 164
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Basic_Floor.uexp" 165
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Stairs.uasset" 166
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Stairs.uexp" 167
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cone.uasset" 168
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cone.uexp" 169
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 170
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cylinder.uexp" 171
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 172
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_NarrowCapsule.uexp" 173
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe.uasset" 174
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe.uexp" 175
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 176
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe_180.uexp" 177
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 178
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Pipe_90.uexp" 179
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Plane.uasset" 180
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Plane.uexp" 181
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Torus.uasset" 182
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Torus.uexp" 183
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim.uasset" 184
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim.uexp" 185
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 186
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim_90_In.uexp" 187
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 188
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Trim_90_Out.uexp" 189
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 190
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_TriPyramid.uexp" 191
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Tube.uasset" 192
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Tube.uexp" 193
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 194
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Wedge_A.uexp" 195
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 196
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Wedge_B.uexp" 197
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 198
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_WideCapsule.uexp" 199
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 200
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 201
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 202
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 203
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 204
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 205
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/GrabType.uasset" 206
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/GrabType.uexp" 207
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/GrabComponent.uasset" 208
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/GrabComponent.uexp" 209
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_VRCursor.uasset" 210
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_VRCursor.uexp" 211
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 212
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 213
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 214
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 215
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 216
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 217
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 218
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 219
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 220
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 221
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 222
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 223
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 224
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 225
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Menu.uasset" 226
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Menu.uexp" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 230
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 231
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 232
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 233
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/TeleportMCP.uasset" 234
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/TeleportMCP.uexp" 235
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 236
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 237
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_TeleportPreviews.uasset" 238
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_TeleportPreviews.uexp" 239
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_TeleportCylinderPreview.uasset" 240
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_TeleportCylinderPreview.uexp" 241
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 242
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 243
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Meshes/SM_TeleportRing.uasset" 244
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Meshes/SM_TeleportRing.uexp" 245
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 246
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 247
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 248
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 249
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 250
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 251
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 252
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 253
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 254
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 255
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 256
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 257
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 258
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 259
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 260
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 261
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 262
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 263
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 264
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 265
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 266
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 267
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 268
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 269
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 270
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 271
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 272
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 273
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 274
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 275
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 276
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 277
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 278
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 279
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 280
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 281
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 282
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 283
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 284
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 285
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 286
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 287
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 288
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 289
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 290
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 291
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 292
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 293
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 294
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 295
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 296
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 297
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 298
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 299
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 300
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 301
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 302
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 303
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 304
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 305
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 306
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 307
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 308
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 309
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 310
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 311
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 312
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 313
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 314
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 315
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 316
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 317
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 318
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 319
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 320
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 321
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 322
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 323
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uasset" 324
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.uexp" 325
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerSpec.ubulk" 326
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 327
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 328
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 329
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uasset" 330
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.uexp" 331
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksB.ubulk" 332
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uasset" 333
+"../../../Engine/Content/VREditor/Devices/Vive/T_VivePreController_EM.uexp" 334
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uasset" 335
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.uexp" 336
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerDiffuse.ubulk" 337
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uasset" 338
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.uexp" 339
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreController_MasksA.ubulk" 340
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 341
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 342
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uasset" 343
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial.uexp" 344
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uasset" 345
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMaterial_Inst.uexp" 346
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uasset" 347
+"../../../Engine/Content/VREditor/Devices/Vive/VivePreControllerMesh.uexp" 348
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRPawn.uasset" 349
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRPawn.uexp" 350
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRGameMode.uasset" 351
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/VRGameMode.uexp" 352
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/Functions/MF_LightmassReplace.uasset" 353
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/Functions/MF_LightmassReplace.uexp" 354
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 355
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 356
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 357
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 358
+"../../../Engine/Content/BasicShapes/Cone.uasset" 359
+"../../../Engine/Content/BasicShapes/Cone.uexp" 360
+"../../../Engine/Content/BasicShapes/Plane.uasset" 361
+"../../../Engine/Content/BasicShapes/Plane.uexp" 362
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 363
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 364
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 365
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 366
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 367
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 368
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 369
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 370
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 371
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 372
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 373
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 374
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 382
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 386
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 387
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 388
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 389
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 390
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 391
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 392
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 393
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 394
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 395
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 396
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 397
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 398
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 399
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 400
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 401
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 402
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 403
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 404
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 405
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 406
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 407
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 408
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 409
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 410
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 411
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 412
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 413
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 414
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 415
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 416
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 417
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 418
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 419
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 420
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 421
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 422
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 423
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 424
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 425
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 426
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 427
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 428
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 429
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 430
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 431
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 432
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 433
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 434
+"../../../Engine/Content/EditorResources/S_Note.uasset" 435
+"../../../Engine/Content/EditorResources/S_Note.uexp" 436
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 437
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 438
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 439
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 440
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 441
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 442
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 443
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 444
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 445
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 446
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 447
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 448
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 449
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 450
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 451
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 452
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 453
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 454
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 455
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 456
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 457
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 458
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 459
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 460
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 461
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 462
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 463
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 464
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 465
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 466
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 467
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 468
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 469
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 470
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 471
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 472
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 473
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 474
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 475
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 476
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 477
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 478
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 479
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 480
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 481
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 482
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 483
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 484
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 485
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 486
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 487
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 488
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 489
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 490
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 491
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 492
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 493
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 494
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 495
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 496
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 497
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 498
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 499
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 500
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 501
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 502
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 503
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 504
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 505
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 506
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 507
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 508
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 509
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 510
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 511
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 512
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 513
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 514
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 515
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 516
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 517
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial_VT.uasset" 518
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial_VT.uexp" 519
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 520
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 521
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 522
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 523
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 524
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 525
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 526
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 527
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 528
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 529
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 530
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 531
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 532
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 533
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 534
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 535
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 536
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 537
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 538
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 539
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 540
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 541
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 542
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 543
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 544
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 545
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 546
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 547
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 548
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 549
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 550
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 551
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 552
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 553
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 554
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 555
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 556
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 557
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 560
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 561
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 562
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 563
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 564
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 565
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 566
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 567
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 568
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 569
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 570
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 571
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 572
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 573
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 574
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 575
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 576
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 577
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 578
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 579
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 580
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 581
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 582
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 583
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 584
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 585
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 586
+"../../../Engine/Content/EngineResources/Black.uasset" 587
+"../../../Engine/Content/EngineResources/Black.uexp" 588
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 589
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 590
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 591
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 592
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 593
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 594
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 595
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 596
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 597
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 598
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 599
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 600
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 601
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 602
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 603
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 604
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 605
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 606
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 607
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 608
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 609
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 610
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 611
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 612
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 613
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 614
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 615
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 616
+"../../../Engine/Content/EngineSounds/Master.uasset" 617
+"../../../Engine/Content/EngineSounds/Master.uexp" 618
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 619
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 620
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 621
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 622
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 623
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 624
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 625
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 626
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 627
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 628
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 629
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 630
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 631
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 632
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 633
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 634
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 635
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 636
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 637
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 638
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 639
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 640
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 641
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 642
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 643
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 644
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 645
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 646
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 647
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 648
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 649
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 650
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 651
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 652
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 653
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 654
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 655
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 656
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 657
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 658
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 659
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 660
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 661
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 662
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 663
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 664
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 665
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 666
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 667
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 668
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 669
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 670
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 671
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 672
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 673
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 674
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 675
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 676
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 677
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 678
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 679
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 680
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 681
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 682
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 683
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 684
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 685
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 686
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 687
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 688
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 689
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 690
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 691
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 692
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 693
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 694
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 695
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 696
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 697
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 698
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 699
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 700
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 701
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 702
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 703
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 704
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 705
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 706
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 707
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 708
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 709
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 710
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 711
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 712
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 713
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 714
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 715
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 716
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 717
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 718
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 719
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 720
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 721
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 722
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 723
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 724
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 725
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 726
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 727
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 728
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 729
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 730
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 731
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 732
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 733
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 734
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 735
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 736
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 737
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 738
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 739
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 740
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 741
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 742
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uexp" 743
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 744
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uexp" 745
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 746
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uexp" 747
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 748
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uexp" 749
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 750
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uexp" 751
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 752
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uexp" 753
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 754
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uexp" 755
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 756
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uexp" 757
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 758
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 759
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 760
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uexp" 761
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uasset" 762
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/CheckerPattern.uexp" 763
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 764
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uexp" 765
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 766
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/Skybox.uexp" 767
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 768
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Assets/SM_Arrows.uexp" 769
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 770
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uexp" 771
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 772
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/BP_LightStudio.uexp" 773
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_AssetPlatform.uasset" 774
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_AssetPlatform.uexp" 775
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 776
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/SM_AssetPlatform.uexp" 777
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 778
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uexp" 779
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.ubulk" 780
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 781
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uexp" 782
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 783
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uexp" 784
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 785
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uexp" 786
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 787
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uexp" 788
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 789
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uexp" 790
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.ubulk" 791
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 792
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uexp" 793
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 794
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uexp" 795
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Advanced_Lighting.uexp" 796
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Advanced_Lighting.umap" 797
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Chair.uasset" 798
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Chair.uexp" 799
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_M.uasset" 800
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_M.uexp" 801
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_M.ubulk" 802
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_N.uasset" 803
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_N.uexp" 804
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Statue_N.ubulk" 805
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 806
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_StatueGlass.uexp" 807
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Statue.uasset" 808
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Statue.uexp" 809
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Statue.uasset" 810
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Statue.uexp" 811
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_M.uasset" 812
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_M.uexp" 813
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_M.ubulk" 814
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_N.uasset" 815
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_N.uexp" 816
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_TableRound_N.ubulk" 817
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_TableRound.uasset" 818
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_TableRound.uexp" 819
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_TableRound.uasset" 820
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_TableRound.uexp" 821
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 822
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Background_Cue.uexp" 823
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Floor_400x400.uasset" 824
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Floor_400x400.uexp" 825
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 826
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 827
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 828
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 829
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 830
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 831
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 832
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 833
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 834
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 835
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 836
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 837
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 838
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 839
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 840
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 841
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 842
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 843
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 844
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 845
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 846
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 847
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Minimal_Default_BuiltData.uexp" 848
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Minimal_Default_BuiltData.ubulk" 849
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_MacroVariation.uasset" 850
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_MacroVariation.uexp" 851
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 852
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uexp" 853
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 854
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Aluminum_D.uexp" 855
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Aluminum_D.ubulk" 856
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 857
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_N.uexp" 858
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_N.ubulk" 859
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 860
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uexp" 861
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 862
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Copper_D.uexp" 863
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Copper_D.ubulk" 864
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Copper.uasset" 865
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Copper.uexp" 866
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Minimal_Default.uexp" 867
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/Minimal_Default.umap" 868
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 869
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_D.uexp" 870
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_D.ubulk" 871
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 872
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_N.uexp" 873
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Steel_N.ubulk" 874
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Steel.uasset" 875
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Steel.uexp" 876
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 877
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_D.uexp" 878
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_D.ubulk" 879
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 880
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_N.uexp" 881
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Rust_N.ubulk" 882
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Rust.uasset" 883
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Rust.uexp" 884
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 885
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uexp" 886
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Spark_Core.uasset" 887
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Spark_Core.uexp" 888
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Spark_Core.ubulk" 889
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Spark.uasset" 890
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Spark.uexp" 891
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Sparks.uasset" 892
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Sparks.uexp" 893
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 894
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire_Sparks01_Cue.uexp" 895
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 896
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uexp" 897
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_M.uasset" 898
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_M.uexp" 899
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_M.ubulk" 900
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_N.uasset" 901
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_N.uexp" 902
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Lamp_N.ubulk" 903
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Lamp.uasset" 904
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Lamp.uexp" 905
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 906
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Lamp_Wall.uexp" 907
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 908
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_WallSconce.uexp" 909
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Smoke.uasset" 910
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Smoke.uexp" 911
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Smoke01_Cue.uasset" 912
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Smoke01_Cue.uexp" 913
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 914
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uexp" 915
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 916
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_SubUV.uexp" 917
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_SubUV.ubulk" 918
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 919
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_Tiled_D.uexp" 920
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Fire_Tiled_D.ubulk" 921
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 922
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uexp" 923
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_N.uasset" 924
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_N.uexp" 925
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_N.ubulk" 926
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 927
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uexp" 928
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Fire.uasset" 929
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Fire.uexp" 930
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire01_Cue.uasset" 931
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Fire01_Cue.uexp" 932
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 933
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uexp" 934
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Steam_Lit.uasset" 935
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Steam_Lit.uexp" 936
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Steam01_Cue.uasset" 937
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Steam01_Cue.uexp" 938
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 939
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uexp" 940
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x200.uasset" 941
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_400x200.uexp" 942
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 943
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Starter_Music_Cue.uexp" 944
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 945
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_Lamp_Ceiling.uexp" 946
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 947
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uexp" 948
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 949
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_N.uexp" 950
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Basalt_N.ubulk" 951
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 952
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Perlin_Noise_M.uexp" 953
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Perlin_Noise_M.ubulk" 954
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 955
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Basalt.uexp" 956
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 957
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Checker_Noise_M.uexp" 958
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Checker_Noise_M.ubulk" 959
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 960
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_N.uexp" 961
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_N.ubulk" 962
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 963
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Single_Tile_N.uexp" 964
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Single_Tile_N.ubulk" 965
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 966
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_M.uexp" 967
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Dot_M.ubulk" 968
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 969
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Checker_Dot.uexp" 970
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 971
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uexp" 972
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.ubulk" 973
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 974
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uexp" 975
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.ubulk" 976
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 977
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile.uexp" 978
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 979
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uexp" 980
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 981
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_M.uexp" 982
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_M.ubulk" 983
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 984
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_N.uexp" 985
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Tech_Panel_N.ubulk" 986
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Panel.uasset" 987
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Tech_Panel.uexp" 988
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 989
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_N.uexp" 990
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_N.ubulk" 991
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 992
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_D.uexp" 993
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Slate_D.ubulk" 994
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Slate.uasset" 995
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Slate.uexp" 996
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 997
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_N.uexp" 998
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_N.ubulk" 999
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 1000
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_D.uexp" 1001
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Sandstone_D.ubulk" 1002
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 1003
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Sandstone.uexp" 1004
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Water_Lake.uasset" 1005
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Water_Lake.uexp" 1006
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_M.uasset" 1007
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_M.uexp" 1008
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Water_M.ubulk" 1009
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Water_Ocean.uasset" 1010
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Water_Ocean.uexp" 1011
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1012
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uexp" 1013
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.ubulk" 1014
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 1015
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Rock_Marble_Polished.uexp" 1016
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 1017
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_D.uexp" 1018
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_D.ubulk" 1019
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 1020
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_N.uexp" 1021
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Pine_N.ubulk" 1022
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Pine.uasset" 1023
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Pine.uexp" 1024
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 1025
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_D.uexp" 1026
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_D.ubulk" 1027
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 1028
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_N.uexp" 1029
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Walnut_N.ubulk" 1030
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 1031
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Walnut.uexp" 1032
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 1033
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Dust_Particle_D.uexp" 1034
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Dust_Particle_D.ubulk" 1035
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 1036
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/Materials/M_Dust_Particle.uexp" 1037
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 1038
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Particles/P_Ambient_Dust.uexp" 1039
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/MaterialSphere.uasset" 1040
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/MaterialSphere.uexp" 1041
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 1042
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_D.uexp" 1043
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_D.ubulk" 1044
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 1045
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_N.uexp" 1046
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Oak_N.ubulk" 1047
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Oak.uasset" 1048
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Oak.uexp" 1049
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 1050
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uexp" 1051
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.ubulk" 1052
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 1053
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uexp" 1054
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.ubulk" 1055
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 1056
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uexp" 1057
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.ubulk" 1058
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 1059
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uexp" 1060
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 1061
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uexp" 1062
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_M.uasset" 1063
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_M.uexp" 1064
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_M.ubulk" 1065
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_N.uasset" 1066
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_N.uexp" 1067
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Frame_N.ubulk" 1068
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Frame.uasset" 1069
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/Materials/M_Frame.uexp" 1070
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_CornerFrame.uasset" 1071
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_CornerFrame.uexp" 1072
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_DoorFrame.uasset" 1073
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_DoorFrame.uexp" 1074
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 1075
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uexp" 1076
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_WindowFrame.uasset" 1077
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_WindowFrame.uexp" 1078
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cube.uasset" 1079
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Cube.uexp" 1080
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 1081
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_QuadPyramid.uexp" 1082
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Sphere.uasset" 1083
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Shapes/Shape_Sphere.uexp" 1084
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_PillarFrame300.uasset" 1085
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_PillarFrame300.uexp" 1086
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_PillarFrame.uasset" 1087
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_PillarFrame.uexp" 1088
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_GlassWindow.uasset" 1089
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Props/SM_GlassWindow.uexp" 1090
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 1091
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Door_400x300.uexp" 1092
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 1093
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Architecture/Wall_Window_400x300.uexp" 1094
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse_Cue.uasset" 1095
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Audio/Collapse_Cue.uexp" 1096
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1097
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/StarterMap_BuiltData.uexp" 1098
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/StarterMap_BuiltData.ubulk" 1099
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 1100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uexp" 1101
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1102
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uexp" 1103
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1104
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uexp" 1105
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.ubulk" 1106
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1107
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uexp" 1108
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.ubulk" 1109
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1110
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uexp" 1111
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.ubulk" 1112
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1113
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uexp" 1114
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1115
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_D.uexp" 1116
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_D.ubulk" 1117
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1118
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_M.uexp" 1119
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1120
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_New_N.uexp" 1121
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1122
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_New.uexp" 1123
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1124
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uexp" 1125
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_D.ubulk" 1126
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1127
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uexp" 1128
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Clay_Old_N.ubulk" 1129
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1130
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Clay_Old.uexp" 1131
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1132
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uexp" 1133
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.ubulk" 1134
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1135
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uexp" 1136
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.ubulk" 1137
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1138
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Cut_Stone.uexp" 1139
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1140
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uexp" 1141
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.ubulk" 1142
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1143
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uexp" 1144
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.ubulk" 1145
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1146
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uexp" 1147
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.ubulk" 1148
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1149
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uexp" 1150
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1151
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_M.uexp" 1152
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_M.ubulk" 1153
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1154
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_N.uexp" 1155
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ceramic_Tile_N.ubulk" 1156
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1157
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uexp" 1158
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 1159
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uexp" 1160
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.ubulk" 1161
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 1162
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uexp" 1163
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.ubulk" 1164
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1165
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uexp" 1166
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.ubulk" 1167
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 1168
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Pebble.uexp" 1169
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 1170
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uexp" 1171
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.ubulk" 1172
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 1173
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uexp" 1174
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_D.ubulk" 1175
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Gradinet_01.uasset" 1176
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Gradinet_01.uexp" 1177
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Gradinet_01.ubulk" 1178
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 1179
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uexp" 1180
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Rough_N.ubulk" 1181
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 1182
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Rough.uexp" 1183
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 1184
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uexp" 1185
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.ubulk" 1186
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 1187
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uexp" 1188
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.ubulk" 1189
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 1190
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uexp" 1191
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.ubulk" 1192
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 1193
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_CobbleStone_Smooth.uexp" 1194
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 1195
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Grime_D.uexp" 1196
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Grime_D.ubulk" 1197
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 1198
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Grime.uexp" 1199
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 1200
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_D.uexp" 1201
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_D.ubulk" 1202
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 1203
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_N.uexp" 1204
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Panels_N.ubulk" 1205
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 1206
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Panels.uexp" 1207
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 1208
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_D.uexp" 1209
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_D.ubulk" 1210
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 1211
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_N.uexp" 1212
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Poured_N.ubulk" 1213
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 1214
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Poured.uexp" 1215
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 1216
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_D.uexp" 1217
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_D.ubulk" 1218
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 1219
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_M.uexp" 1220
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_M.ubulk" 1221
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 1222
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_N.uexp" 1223
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_N.ubulk" 1224
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 1225
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uexp" 1226
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.ubulk" 1227
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 1228
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Concrete_Tiles.uexp" 1229
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 1230
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_D.uexp" 1231
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_D.ubulk" 1232
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 1233
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_N.uexp" 1234
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Grass_N.ubulk" 1235
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Grass.uasset" 1236
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Grass.uexp" 1237
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 1238
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_D.uexp" 1239
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_D.ubulk" 1240
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 1241
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_N.uexp" 1242
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Gravel_N.ubulk" 1243
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 1244
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Gravel.uexp" 1245
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 1246
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Moss_N.uexp" 1247
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Ground_Moss_N.ubulk" 1248
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 1249
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_ground_Moss_D.uexp" 1250
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_ground_Moss_D.ubulk" 1251
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Moss.uasset" 1252
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Ground_Moss.uexp" 1253
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 1254
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Chrome.uexp" 1255
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 1256
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_D.uexp" 1257
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Textures/T_Metal_Gold_D.ubulk" 1258
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Gold.uasset" 1259
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Materials/M_Metal_Gold.uexp" 1260
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/StarterMap.uexp" 1261
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/StarterContent/Maps/StarterMap.umap" 1262
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRSpectator/RT_VRSpectator.uasset" 1263
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRSpectator/RT_VRSpectator.uexp" 1264
+"../../../Engine/Content/EditorResources/MatineeCam_D.uasset" 1265
+"../../../Engine/Content/EditorResources/MatineeCam_D.uexp" 1266
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uasset" 1267
+"../../../Engine/Content/EditorMaterials/MatineeCam_mat.uexp" 1268
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uasset" 1269
+"../../../Engine/Content/EditorMeshes/MatineeCam_SM.uexp" 1270
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRSpectator/VRSpectator.uasset" 1271
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRSpectator/VRSpectator.uexp" 1272
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/CubeMaterial.uasset" 1273
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/CubeMaterial.uexp" 1274
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 1275
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 1276
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/TemplateFloor.uasset" 1277
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/TemplateFloor.uexp" 1278
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Textures/T_Grid.uasset" 1279
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Textures/T_Grid.uexp" 1280
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Textures/T_Grid.ubulk" 1281
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 1282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 1283
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 1284
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 1285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 1286
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 1287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 1288
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uexp" 1289
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_GridRotation.uasset" 1290
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_GridRotation.uexp" 1291
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Grid_Accent.uasset" 1292
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Grid_Accent.uexp" 1293
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Grid_Default.uasset" 1294
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Grid_Default.uexp" 1295
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1296
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1297
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/1M_Cube.uasset" 1298
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/Geometry/Meshes/1M_Cube.uexp" 1299
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Audio/Fire01.uasset" 1300
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Audio/Fire01.uexp" 1301
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Audio/Fire01.ubulk" 1302
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Audio/Fire_Cue.uasset" 1303
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Audio/Fire_Cue.uexp" 1304
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1305
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uexp" 1306
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.ubulk" 1307
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1308
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uexp" 1309
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1310
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uexp" 1311
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1312
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uexp" 1313
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uasset" 1314
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Grabbable_SmallCube.uexp" 1315
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Haptics/PistolFireHapticEffect.uasset" 1316
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Haptics/PistolFireHapticEffect.uexp" 1317
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 1318
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 1319
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 1320
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 1321
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 1322
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 1323
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 1324
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 1325
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 1326
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 1327
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 1328
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 1329
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 1330
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 1331
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 1332
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uexp" 1333
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 1334
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 1335
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 1336
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 1337
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 1338
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 1339
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 1340
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 1341
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_M.uasset" 1342
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_M.uexp" 1343
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_M.ubulk" 1344
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_N.uasset" 1345
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_N.uexp" 1346
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Textures/T_FPGun_N.ubulk" 1347
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/M_FPGun.uasset" 1348
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Materials/M_FPGun.uexp" 1349
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset" 1350
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun_Physics.uexp" 1351
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 1352
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uexp" 1353
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun.uasset" 1354
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/FPWeapon/Mesh/SK_FPGun.uexp" 1355
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_Projectile.uasset" 1356
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/M_Projectile.uexp" 1357
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Projectile.uasset" 1358
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Materials/MI_Projectile.uexp" 1359
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Projectile.uasset" 1360
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Projectile.uexp" 1361
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Pistol.uasset" 1362
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Blueprints/Pistol.uexp" 1363
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset" 1364
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uexp" 1365
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.ubulk" 1366
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1367
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1368
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1369
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uexp" 1370
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1371
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uexp" 1372
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Maps/VRTemplateMap.uexp" 1373
+"F:/Users/Michael Cawood/Documents/Unreal Projects/VR_Test/Content/VRTemplate/Maps/VRTemplateMap.umap" 1374
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1375
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1376
+"../../../Engine/Content/Maps/Entry.uexp" 1377
+"../../../Engine/Content/Maps/Entry.umap" 1378
